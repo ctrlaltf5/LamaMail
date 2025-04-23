@@ -12,7 +12,7 @@
 - 📬 SMTP2GO ile GMail, Outlook gibi servislerden bağımsız olarak mail gönder
 - 💻 Terminal arayüzlü mail gönderici (`lamamail.py`)
 - 🛑 Log yok, kayıt yok, gözetim yok
-- 🧠 Kurulumu tek komutla hallet
+- 🧠 Kurulumu tek komutla hallet(!)
 - 🧰 İleri düzeyde spoofing ve GPG şifreleme (opsiyonel)
 
 ---
